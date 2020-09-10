@@ -16,7 +16,7 @@ function reducer(state, action) {
       // logic
       return { ...state, basket: [...state.basket, action.item] };
 
-    case "FETCH_RESULTS":
+    case "REMOVE_FROM_BASKET":
       // logic
       let newBasket = [...state.basket];
 
