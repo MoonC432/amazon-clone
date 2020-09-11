@@ -6,9 +6,10 @@ function Home() {
     <div className="home">
       <img
         className="home__image"
-        src="https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2019/09/Amazon-GIS-Electronics-1-1024x335.jpg"
+        src="https://www.bigcommerce.com/blog/wp-content/uploads/2018/11/youtube-advertising-hero-img.jpg"
         alt="banner"
       />
+
       <div className="home__product">
         <div className="home__productRow">
           <Product

@@ -32,3 +32,8 @@
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
 }
+
+.subtotal > button:hover {
+  background-color: rgba(118, 155, 224, 0.822);
+  transition: all 0.5s;
+}
