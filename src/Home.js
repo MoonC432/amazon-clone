@@ -6,13 +6,13 @@ function Home() {
     <div className="home">
       <img
         className="home__image"
-        src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+        src="https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2019/09/Amazon-GIS-Electronics-1-1024x335.jpg"
         alt="banner"
       />
       <div className="home__product">
         <div className="home__productRow">
           <Product
-            id="00121"
+            id="8960745986"
             title="Hp Spectre 13"
             price={1630.21}
             rating={5}
@@ -20,7 +20,7 @@ function Home() {
           />
 
           <Product
-            id="012340"
+            id="7830014"
             title="Vivo V17"
             price={300.89}
             rating={4}
@@ -29,7 +29,7 @@ function Home() {
         </div>
         <div className="home__productRow">
           <Product
-            id="00121"
+            id="84365"
             title="Apple Airpod"
             price={129.99}
             rating={4}
@@ -37,14 +37,14 @@ function Home() {
           />
 
           <Product
-            id="012340"
+            id="41032"
             title="MacBook Air"
             price={1290.11}
             rating={4}
             image="https://itti.com.np/pub/media/catalog/category/Apple_MacBook_Laptop_price_Nepal.jpg"
           />
           <Product
-            id="00121"
+            id="7865"
             title="2020 FHD TV T5300 40inch"
             price={994.63}
             rating={5}
@@ -53,8 +53,8 @@ function Home() {
         </div>
         <div className="home__productRow">
           <Product
-            id="00121"
-            title="PS5"
+            id="2318"
+            title="PS5 Ray tracing Up to 120fps with 120Hz 8k output HDR technology"
             price={599.99}
             rating={4}
             image="https://cdn.mos.cms.futurecdn.net/QKuDTr3YDAJvVBGBkXP4QH-1200-80.jpg"

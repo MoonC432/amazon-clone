@@ -37,6 +37,7 @@ function App() {
       <Router>
         <Switch>
           <Route path="/checkout">
+            <Header />
             <Checkout />
           </Route>
           <Route path="/login">
